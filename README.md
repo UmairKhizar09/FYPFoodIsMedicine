@@ -1,2 +1,2 @@
 # FYPFoodIsMedicine
-Here the project is our Final Year Project in which we have build a system in which we use python models and integrate them with ASP.NET that would recommend healthy diet plan to Patients who were suffering from any disease.
+Here is our Final Year Project in which we have built a system in which we use Python models and integrate them with ASP.NET to recommend healthy diet plans to Patients suffering from any disease.
